@@ -6,5 +6,5 @@ Desenvolvedor backend com habilidades em Java e experiência com Spring Boot, Hi
 - 🌱 Atualmente estou aprendendo cultura Devops
 - 👯 Estou procurando colaborar em projetos academicos usando a linguagem Java
 - 📫 Como entrar em contato comigo: ramosmanhaes@outlook.com
-- ⚡ Curiosidade: Aplicaçoes baseadas em microsserviços rodando em uma instancia em Cloud
+- ⚡ Curiosidade: Aplicaçoes baseadas em microsserviços rodando em instancias de máquinas/conteineres em Cloud
 
