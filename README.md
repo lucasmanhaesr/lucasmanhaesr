@@ -1,6 +1,6 @@
 # Olá 👋
 
-Desenvolvedor backend com habilidades em Java e experiência com Spring Boot, Hibernate, SQL, PLSQL e NoSQL. Familiarizado com Microsserviços. 
+Desenvolvedor backend com habilidades em Java e experiência com Spring, Hibernate, AWS LAmbda, Azure Funcions, SQL e NoSQL. Familiarizado com Microsserviços. 
 
 - 🔭 Atualmente estou trabalhando em Aplicacoes Mobile utilizando a linguagem Kotlin
 - 🌱 Atualmente estou aprendendo cultura Devops
