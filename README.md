@@ -1,2 +1,4 @@
-- ⚡ Dev. Fullstack com habilidades em Java, JavaScript, TypeScript e experiência com Spring, Hibernate, React.JS, SQL, NoSQL, Azure e AWS.
-- 📫 Como entrar em contato comigo: ramosmanhaes@outlook.com
+- ⚡ Olá sou o Lucas Ramos Manhães
+- 📫 E-mail: ramosmanhaes@outlook.com
+
+![Lucas GitHub status](https://github-readme-stats.vercel.app/api?username=lucasmanhaesr&show_icons=true&theme=radical)
