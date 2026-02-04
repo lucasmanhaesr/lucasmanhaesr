@@ -16,10 +16,4 @@
     <a href="https://www.linkedin.com/in/lucasrmanhaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br>
-
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmanhaesr&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmanhaesr&layout=compact&theme=dark">
-</div>
 
