@@ -1,6 +1,3 @@
-##### ⚡ Olá sou o Lucas Ramos Manhães
-##### 📫 E-mail: ramosmanhaes@outlook.com
-
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
